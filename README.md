@@ -30,3 +30,7 @@ Dark/Light mode toggle
 Multiple shadow layers support
 Save favorite shadows
 Export as image preview
+
+🤝 Contributing
+Pull requests are welcome.
+If you have ideas to improve this project, feel free to contribute.
