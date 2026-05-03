@@ -11,3 +11,8 @@ Live Demo -
 - 🔁 Real-time CSS output
 - 📋 One-click copy CSS code
 - 📱 Responsive design (mobile friendly)
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
