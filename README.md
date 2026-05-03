@@ -18,10 +18,15 @@ Live Demo -
 - CSS3
 - JavaScript
 
-
 ## 🎯 How It Works
 1. Adjust sliders (X, Y, blur, spread)
 2. Choose shadow color
 3. See live preview update instantly
 4. Copy generated CSS code
 5. Paste it into your project
+
+📌 Future Improvements
+Dark/Light mode toggle
+Multiple shadow layers support
+Save favorite shadows
+Export as image preview
